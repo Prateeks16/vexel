@@ -1,0 +1,11 @@
+/bin/
+/dist/
+*.pem
+*.key
+.env
+.env.*
+coverage.out
+
+# UI test
+test/ui/node_modules/
+test/ui/screenshots/
